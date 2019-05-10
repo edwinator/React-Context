@@ -1,3 +1,8 @@
+Simple app to learn the usage of React Context as an alternative to props
+to transfer data down from a parent component to nested components.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
